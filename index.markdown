@@ -3,4 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Meron Woldesenbet
+author_profile: true
 ---
+![Meron Woldesenbet](/assets/images/mw (2).JPG){: .avatar}
+
+# Hi there! I'm Meron Woldesenbet
+I am a computer science major gradguating in december 2025. 
+I invite you to explore some of my favorite articles and projects below or go to 
+[**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
