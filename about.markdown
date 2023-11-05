@@ -1,18 +1,22 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi, I'm Meron Woldesenbet
+I am a Computer Science major with a Minor in Math, set to graduate in December 2025. My passion for technology is driven by my love for solving problems. I enjoy tackling complex challenges, whether it's optimizing algorithms, designing user-friendly software, or enhancing systems' efficiency.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Beyond the keyboard, my hobbies, such as playing games, reading, and drawing provide me with a well-rounded perspective that complements my software engineering skills.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm always open to new opportunities and conversations. Whether it's about potential collaborations, internships, or simply discussing the latest tech trends, feel free to reach out.
+Thank you for visiting my portfolio website!
 
+## My Skills
+### Technical Skills
 
-[jekyll-organization]: https://github.com/jekyll
+{% include technicalskills.md %}
+
+### Soft Skills
+Client Management, Leadership, Time Management, Teamwork, Decision analysis and problem-solving
+
