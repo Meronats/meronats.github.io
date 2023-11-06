@@ -1,7 +1,9 @@
 ---
 layout: archive
 ---
-{{content}}
+
+{{ content }}
+
 
 <ul class="taxonomy__index">
     {% assign sorted_tags = site.tags | sort %}
@@ -10,7 +12,7 @@ layout: archive
     {% if cat_tags != empty %}
     <li>
         <a href="#{{ tag[0] | slugify }}">
-            <strong>{{ tag[0] }}</strong> 
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
         </a>
     </li>
     {% endif %}
@@ -33,3 +35,4 @@ layout: archive
 </section>
 {% endif %}
 {% endfor %}
+
