@@ -1,6 +1,6 @@
 ---
+layout: categories_work
 title: "My Work"
-layout: archive
 author: Meron Woldesenbet
 author_profile: true
 ---

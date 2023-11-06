@@ -1,6 +1,6 @@
 ---
+layout: categories_article
 title: "My Writing"
-layout: archive
 author: Meron Woldesenbet
 author_profile: true
 ---

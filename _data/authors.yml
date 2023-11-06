@@ -9,3 +9,7 @@ Meron Woldesenbet:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/meron-/"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/Meronats"
+      
