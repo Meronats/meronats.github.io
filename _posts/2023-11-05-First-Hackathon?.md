@@ -25,11 +25,14 @@ When the hackathon was announced, I was eager to participate, but I didn't have 
 
 ## Code and Coffee: The Synergistic Marathon Begins
 With newfound team members, our hackathon journey officially started. We were like a well-oiled machine, each of us bringing our unique strengths to the table. The 24-hour marathon was intense, but with great teamwork, it felt like an exhilarating adventure rather than a daunting challenge.
+![Meron Woldesenbet](/assets/images/2023_10_07_21_01_IMG_3833.JPG)
+
 One of the most significant advantages of joining a team is the power of collaboration. We had productive discussions, brainstorming sessions, and instant feedback on our ideas. It was incredible to witness the magic that can happen when creative minds work together.
 As the hackathon deadline approached, we polished our project, prepared a compelling presentation, and submitted our work. The feeling of unity and shared achievement was unlike anything I had experienced before.
 
 ## Third Place: The Sweet Surprise
 When the results were announced, we were thrilled to hear our team's name called for third place. The shock and joy were doubled because we hadn't planned to be a team in the first place. It was a celebration of unexpected success, teamwork, and creativity.
+![Meron Woldesenbet](/assets/images/2023_10_10_21_38_IMG_3871.JPG)
 
 ## What You Can Learn
 ### My journey from a solo start to a team collaboration taught me valuable lessons:
