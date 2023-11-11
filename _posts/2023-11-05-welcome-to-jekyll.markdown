@@ -4,17 +4,18 @@ title:  "Study Shuffle"
 date:   2023-11-05 19:27:22 +0000
 categories: 
   - work
+tagline: "Flashcards: Because learning should be as simple as a flip"
 tags:
   - Personal
 description: A flashcard app
 highlight_home: true
 header:
- overlay_image: https://images.unsplash.com/photo-1504507926084-34cf0b939964?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ overlay_image: https://htmlcolorcodes.com/assets/images/colors/light-purple-color-solid-background-1920x1080.png
  teaser: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN0dWR5fGVufDB8fDB8fHww
  caption: Your best study partner
 ---
 
->Flashcards: Because learning should be as simple as a flip.
+> Are you studying for exams, expanding your vocabulary, or mastering new concepts? 
 
 
 # StudyShuffle

@@ -6,9 +6,12 @@ layout: home
 author: Meron Woldesenbet
 author_profile: true
 ---
-![Meron Woldesenbet](/assets/images/mER2.JPEG){: .avatar}
+<img src="/assets/images/mER2.JPEG" alt="Meron Woldesenbet" style="border-radius: 50%; width: 200px; height: auto; float: left; margin-right: 20px;">
 
-# Hi there! I'm Meron Woldesenbet
-I am a computer science major gradguating in december 2025. 
+<div style="clear: both;"></div>
+
+
+# Hi! I'm Meron Woldesenbet :wave:
+I am a computer science major graduating in December 2025. 
 I invite you to explore some of my favorite articles and projects below or go to 
 [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
