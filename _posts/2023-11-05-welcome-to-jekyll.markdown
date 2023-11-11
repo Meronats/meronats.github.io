@@ -1,38 +1,34 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
+title:  "Study Shuffle"
 date:   2023-11-05 19:27:22 +0000
 categories: 
   - work
 tags:
-  - health
-description: projects on healthcare 
+  - Personal
+description: A flashcard app
 highlight_home: true
 header:
- overlay_image: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
- teaser: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
- caption: 
+ overlay_image: https://images.unsplash.com/photo-1504507926084-34cf0b939964?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+ teaser: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN0dWR5fGVufDB8fDB8fHww
+ caption: Your best study partner
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+>Flashcards: Because learning should be as simple as a flip.
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# StudyShuffle
+Introducing my latest creation, the StudyShuffle web app is a companion for efficient and engaging learning. With a unique Shuffle feature, StudyShuffle adds an element of surprise to your study sessions by randomizing flashcards, keeping your mind sharp and engaged. Take charge of your progress with customizable stacks, effortlessly moving conquered cards to a separate stack for focused revision. I used HTML/CSS for a seamless user interface. StudyShuffle isn't just a flashcard app; it's a personalized journey towards mastering your material with a touch of innovation.
 
-Jekyll also offers powerful support for code snippets:
+[Github Repository](https://github.com/Meronats/Flash-cards-)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## First look
+This is the first page that has flashcards on the left side and a container on the right side.
+![FirstLook](/assets/images/Screenshot%202023-11-10%20231143.png)
+## Answers
+When you interact with the flashcards by flipping them, you'll reveal definitions and answers on the reverse side. This feature is designed to provide a concise yet comprehensive understanding of the topic at hand, enhancing the learning experience. Moreover, each flashcard is thoughtfully equipped with a link positioned at the bottom. This link serves as a gateway for those Who want to learn more about the topic.
+![Flipping](/assets/images/Screenshot%202023-11-10%20231159.png)
+## Answered cards
+If you think you have gotten enough practice, you have the option to organize and store them conveniently in the container on the right side. This container serves as a designated space to house the flashcards you've mastered, allowing for easy access and review when needed
+![Got it!](/assets/images/Screenshot%202023-11-10%20231245.png)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
