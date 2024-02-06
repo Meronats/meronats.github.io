@@ -4,7 +4,7 @@ title:  "Containerization"
 date:   2024-02-05 19:14:27 -0500
 tagline: "Tech trends"
 tags: [Research]
-highlight_home: true
+highlight_home: false
 author_profile: true
 author: Meron Woldesenbet
 categories: article
