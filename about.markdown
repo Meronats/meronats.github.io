@@ -18,6 +18,11 @@ Thank you for visiting my portfolio website, and I look forward to engaging in m
 **Codecademy** - Program Management :
 **Microsoft** - Fundamentals of Machine Learning
 
+## Affilation
+**Colorstack**
+**Edlyft**
+**Rewriting the Code**
+**Ignite AI4ALL**
 
 ## My Skills
 ### Languages / Tools

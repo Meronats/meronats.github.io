@@ -17,13 +17,13 @@ description:  In this article, I share the exciting moments and challenges I enc
 >"You must do the thing you think you cannot do." 
 -Eleanor Roosevelt
 
-# Coding Marathon: Lessons from My First Hackathon
+# Lessons from My First Hackathon
 Have you ever thought about participating in a hackathon but are afraid you don’t have a team? That was me about a month ago, and my experience taught me that going solo can lead to some unexpected and impressive results. Let me share my story of how I ventured into a hackathon alone and ended up taking home the third-place prize.
 
-## The Lone Coder: A Solo Adventure
+## The Lone Coder
 When the hackathon was announced, I was eager to participate, but I didn't have a team. Instead of letting this deter me, I decided to embrace the challenge and experience my first hackathon in Dallas, Texas. HackUTA was organized by the University of Texas, Arlington. More than 400 students were expected to participate in this hackathon. I knew it would be tough, but I was determined to give it my all.
 
-## Code and Coffee: The Synergistic Marathon Begins
+## Code and Coffee
 With newfound team members, our hackathon journey officially started. We were like a well-oiled machine, each of us bringing our unique strengths to the table. The 24-hour marathon was intense, but with great teamwork, it felt like an exhilarating adventure rather than a daunting challenge.
 ![Meron Woldesenbet](/assets/images/2023_10_07_21_01_IMG_3833.JPG)
 
