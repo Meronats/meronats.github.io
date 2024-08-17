@@ -3,6 +3,9 @@ Meron Woldesenbet:
   bio         : "Let's talk about code! Reach out via the links below."
   avatar      : "/assets/images/duckie.jpg"
   links:
+    - label: "Resume"
+      icon: "fas fa-file-alt"
+      url: "https://drive.google.com/file/d/1S6im96L3FxDYoIp19D54Mec_wnws3pdW/view?usp=sharing"
     - label: "Email"
       icon: "far fa-envelope"
       url: "mailto:meron.woldesenbet@mnsu.edu"

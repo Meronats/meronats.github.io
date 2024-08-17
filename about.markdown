@@ -9,12 +9,13 @@ I am a Computer Science major with a Minor in Math, set to graduate in December 
 
 Beyond the keyboard, my hobbies, such as playing games, reading, and writing provide me with a well-rounded perspective that complements my software engineering skills.
 
-I am currently actively seeking internship opportunities in the field of technology, with a particular interest in Product Management roles and Software Engineering. However, I am open to exploring opportunities in Technical Consulting, Cybersecurity, Machine Learning and Systems Engineering as well. My goal is to apply my computer science skills and mathematical background to real-world challenges, contributing to innovative solutions and gaining valuable industry experience. If you have any potential collaborations, internship openings, or if you'd like to discuss the latest tech trends, I would be thrilled to connect with you. 
+I am currently actively seeking internship opportunities in the field of technology, with a particular interest in Product Management roles and Software Engineering. However, I am open to exploring opportunities in Technical Consulting, Cybersecurity, Machine Learning and Systems Engineering as well. My goal is to apply my computer science skills and mathematical background to real-world challenges, contributing to innovative solutions and gaining valuable industry experience. 
 
 Thank you for visiting my portfolio website, and I look forward to engaging in meaningful conversations and exciting opportunities!
 
+Check out my [**resume**](https://drive.google.com/file/d/1S6im96L3FxDYoIp19D54Mec_wnws3pdW/view?usp=sharing) 
 ## Certifications
-- **Codecademy** - Program Management: This certification equipped me with comprehensive knowledge and practical skills in program management methodologies, tools, and best practices. 
+- **Codecademy** - Product Management: This certification equipped me with comprehensive knowledge and practical skills in program management methodologies, tools, and best practices. 
 - **Microsoft** - Fundamentals of Machine Learning: This certification provided me with a foundational understanding of machine learning concepts and techniques.
 
 ## My Skills
@@ -27,6 +28,9 @@ Data Analysis, Decision Analysis, Project Planning, Database Management, Task Ma
 Management, Problem-Solving, Critical thinking, Leadership, Teamwork, Client management and Customer Service
 ## Affiliations
 - **Colorstack** - As an active member of the Colorstack community, I engage in a supportive network of peers and professionals dedicated to increasing the representation of Black, Latinx, and Native American students in technology.
-- **Edlyft** - I completed Data Structures 2 course, which deepened my understanding of complex algorithms, data manipulation, and efficiency optimization. Beyond coursework, as a community member, I contribute to discussions, and share learning resources.
+- **Edlyft** - I completed Data Structures 2 course, which deepened my understanding of complex algorithms, data manipulation, and efficiency optimization. Beyond coursework, as a community member, I contribute to discussions and share learning resources.
 - **Rewriting the Code** - Member of Rewriting the Code, a nonprofit organization dedicated to empowering women in technology committed to excellence and leadership in the tech industry.
 - **Ignite AI4ALL** - Through Ignite AI4ALL, I have the opportunity to delve into the world of machine learning, working on projects with a designated team. This experience not only enhances my technical expertise in AI but also promotes collaborative skills as we tackle real-world problems.
+- **Aspirations in Computing (AIC)** - As a member of AIC, I am part of a community that encourages and supports women in computing, providing opportunities for networking, professional development, and recognition of achievements.
+- **SWE (Society of Women Engineers)** - Active member of SWE, where I participate in initiatives aimed at supporting and advancing women in engineering fields through professional development, networking, and mentorship opportunities.
+

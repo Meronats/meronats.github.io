@@ -3,7 +3,7 @@ layout: posts
 title:  "First Hackathon?"
 date:   2023-11-05 19:14:27 -0500
 tagline: "Great start"
-tags: [Hackathon]
+tags: [Professional Development]
 highlight_home: true
 author_profile: true
 author: Meron Woldesenbet
