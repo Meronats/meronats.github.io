@@ -13,7 +13,7 @@ I am currently actively seeking internship opportunities in the field of technol
 
 Thank you for visiting my portfolio website, and I look forward to engaging in meaningful conversations and exciting opportunities!
 
-Check out my [**resume**](https://drive.google.com/file/d/1S6im96L3FxDYoIp19D54Mec_wnws3pdW/view?usp=sharing) 
+
 ## Certifications
 - **Codecademy** - Product Management: This certification equipped me with comprehensive knowledge and practical skills in program management methodologies, tools, and best practices. 
 - **Microsoft** - Fundamentals of Machine Learning: This certification provided me with a foundational understanding of machine learning concepts and techniques.
