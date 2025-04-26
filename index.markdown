@@ -14,6 +14,6 @@ author_profile: true
 # Hi! I'm Meron Woldesenbet :wave:
 I am a computer science major graduating in December 2025. 
 I invite you to explore some of my projects and recent works below or go to 
-[**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list of my experience.
+[**My Work**](/mywork) to see a categorized list of my experience.
 
 

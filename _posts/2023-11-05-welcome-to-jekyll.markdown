@@ -8,7 +8,7 @@ tagline: "Flashcards: Because learning should be as simple as a flip"
 tags:
   - Personal
 description: A flashcard app
-highlight_home: true
+highlight_home: false
 header:
  overlay_image: https://htmlcolorcodes.com/assets/images/colors/light-purple-color-solid-background-1920x1080.png
  teaser: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHN0dWR5fGVufDB8fDB8fHww

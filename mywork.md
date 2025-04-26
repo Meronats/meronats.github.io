@@ -5,5 +5,8 @@ author: Meron Woldesenbet
 author_profile: true
 ---
 
-My journey has taken me through a diverse range of industries and passions. From software engineering to data analysis, my work spans multiple categories. I invite you to explore my experiences organized below, and please don't hesitate to reach out if you're interested in potential collaborations or simply wish to discuss any of these endeavors further.
+I believe the best way to learn is by doing, which is why I constantly challenge myself through personal side projects and collaborations. These projects keep me in a continuous learning loop, helping me sharpen my skills and stay curious.
+
+Below are some of the projects that have shaped my journey and helped me grow into the developer I am today. Feel free to explore, and don't hesitate to reach out if you're interested in collaborating or simply want to chat more about any of these experiences!
+
 
