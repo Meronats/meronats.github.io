@@ -22,11 +22,11 @@ Thank you for visiting my portfolio website, and I look forward to engaging in m
 
 ## My Skills
 
-### Languages
-Python, Javascript, HTML/CSS, React, C, Java, TypeScript, SQL, 
+**Languages**: Python, Java, C, C#, HTML/CSS, JavaScript, TypeScript, SQL  
 
-### Tools
-Docker, Flask, Git, Node.js
+
+**Frameworks/Tools**: Git, React, MongoDB, Azure, Docker, AWS, Microsoft Project
+
 
 
 ### Technical
