@@ -15,7 +15,7 @@ header:
   caption: CS Portfolio Hosting Application
 ---
 
-CS Portfolio Hosting Application
+Portfolio Hosting application for Computer Sceince and Software Engineering students at MNSU.
 
 <!-- Add your GitHub repo link here [GitHub Repository](#)  -->
 
