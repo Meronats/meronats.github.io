@@ -79,7 +79,7 @@ Before development began, I led a research phase to evaluate whether it would be
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 This project taught me how to approach technical architecture decisions pragmatically by balancing cost, technical feasibility, and user needs. I strengthened my skills in full-stack development, cloud storage integration, and working with database modeling tools like Drizzle ORM. It also deepened my understanding of stakeholder communication and early-stage project planning.
 
 ---
