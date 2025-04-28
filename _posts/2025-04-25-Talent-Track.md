@@ -15,7 +15,7 @@ header:
 ---
 
 
-Soccer Recruiting Application  
+Because coaches needed more soccer, less email chaos.
 
 
 [GitHub Repository](https://github.com/Meronats/TalentTrack)

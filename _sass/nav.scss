@@ -1,17 +1,20 @@
 .masthead {
-    background: linear-gradient(to right, #ffbf34, #ff9a41);
+    background: white; // Remove gradient and set to white
+    box-shadow: none; // Remove any shadows if present
+    border: none; // Ensure no borders
 }
 
 #site-nav {
-    background-color: transparent;
+    background-color: white; // Set navigation background to white
 }
 
 #site-nav a,
 #site-nav a:visited {
-    color: #000053;
-}
-
-#site-nav a,
-#site-nav a:visited {
+    color: #000053; // Keep text color consistent
     font-family: "Rubik";
+    text-decoration: none; // Remove underline for links
+}
+
+#site-nav a:hover {
+    color: #ff9a41; // Optional: Add a hover effect for links
 }
