@@ -1,40 +1,49 @@
 body {
-    color: black;
+    color: #333; // Neutral text color for readability
+    background-color: white; // Set the background to white
+    font-family: "Work Sans", sans-serif; // Use a clean, modern font
+    margin: 0;
+    padding: 0;
 }
 
 a {
-    color: #f09f00
+    color: #000053; // Neutral link color
+    text-decoration: none; // Remove underline for links
 }
 
 a:visited {
-    color: #da6900
+    color: #666; // Slightly lighter color for visited links
 }
 
-h3,
-h3.archive__subtitle {
-    clear: both;
-    color: #3270b3;
-    font-family: "Waiting for the Sunrise";
-    font-size: 1.35em;
+a:hover {
+    color: #ff9a41; // Optional: Add a subtle hover effect
 }
 
-
-
-h1,
-h2 {
-    color: #2a84a0;
-    font-family: "Rubik";
+h1, h2, h3, h4, h5, h6 {
+    color: #000; // Set all headings to black
+    font-family: "Rubik", sans-serif; // Use a consistent font for headings
     font-weight: 700;
+    margin-bottom: 1em;
 }
 
 p,
 .sidebar p,
-.archive__item-title,
-a,
-body {
-    font-family: "Work Sans";
+.archive__item-title {
+    font-family: "Work Sans", sans-serif; // Keep the body font consistent
+    color: #333; // Neutral text color
+    line-height: 1.6; // Improve readability
 }
 
 #main {
     position: relative;
+    background-color: white; // Ensure the main content area is white
+    padding: 20px; // Add some padding for spacing
+}
+
+.sidebar {
+    background-color: white; // Ensure the sidebar is white
+    color: #333; // Neutral text color
+    padding: 20px; // Add spacing
+    box-shadow: none; // Remove any shadows
+    border: none; // Remove borders
 }

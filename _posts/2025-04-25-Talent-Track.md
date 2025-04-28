@@ -7,6 +7,7 @@ categories:
 tagline: "Simplifying recruitment for college soccer coaches"
 tags:
   - Collaboration
+  - Fullstack
 description: A fullstack application that automates soccer recruitment by parsing player emails and organizing recruit data in one place.
 highlight_home: true
 header:

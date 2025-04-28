@@ -7,6 +7,7 @@ categories:
 tagline: "Flashcards: Because learning should be as simple as a flip"
 tags:
   - Personal
+  - Fullstack
 description: A flashcard app
 highlight_home: false
 header:
