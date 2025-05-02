@@ -33,18 +33,12 @@ Thank you for visiting my portfolio website, and I look forward to engaging in m
 Data Analysis, Decision Analysis, Project Planning, Database Management, Task Management, Time
 Management, Problem-Solving, Critical thinking, Leadership, Teamwork, Client management and Customer Service
 
+
 ## Certifications & Achievements
-- 📜 Microsoft Cybersecurity Analyst Certification
-- 📜 Google Project Management Certification
-- 🏆 HackUTA 2023 - 3rd Place Winner
-- 📜 Codecademy Product Management Certification
-- 📜 Microsoft Fundamentals of Machine Learning
 
-## Community Involvement
-I'm actively engaged in several tech communities that align with my values:
-- **LeetCode Club President and Founder** – Minnesota State University, Mankato
-- **Colorstack** - Contributing to diversity in tech
-- **Rewriting the Code** - Empowering women in technology
-- **Society of Women Engineers** - Advancing women in engineering
-- **Ignite AI4ALL** - Exploring AI applications with diverse teams
-
+- AWS Certified Cloud Practitioner  
+- Microsoft Cybersecurity Analyst Certification  
+- Google Project Management Certification  
+- Codecademy Product Management Certification  
+- Microsoft Fundamentals of Machine Learning  
+- HackUTA 2023 – 3rd Place Winner
