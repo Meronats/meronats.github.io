@@ -71,9 +71,8 @@ Created Talent Track to help soccer coaches manage recruit emails in a more orga
 
 ---
 
-## 🧠 What I Learned
-This project helped me grow in both frontend and backend development. I gained hands-on experience working with email parsing, AI integration, cloud deployment, and teamwork under deadlines. I also learned how important clean UI and data structure are when building tools meant for real users.
-
+## What I Learned
+This project helped me grow in both frontend and backend development. I gained hands-on experience working with email parsing, AI integration, cloud deployment, and teamwork under deadlines. 
 ---
 
 ## Impact
