@@ -2,7 +2,6 @@
 layout: archive
 title: Involvement and Activities
 permalink: /involvement/
-author_profile: true
 ---
 
 Beyond academics, I’ve had the opportunity to be involved in incredible programs, communities, and projects that have shaped my journey both personally and professionally.
@@ -28,7 +27,7 @@ I'm actively engaged in several tech communities that align with my values:
 ## Volunteer Work
 
 - **Volunteer Teacher | Microsoft TEALS**  
-  Taught introductory programming class to high school students from diverse backgrounds. I love mentoring young kids that are interested in tech. I loved having chats with my students about games and projects were working on. I truly saw my younger self in them and enjoyed every class. 
+  Taught introductory programming class to high school students from diverse backgrounds. I love mentoring young kids that are interested in tech. I loved having chats with my students about games and projects they were working on. I truly saw my younger self in them and enjoyed every class. 
 
 ## Research and Hackathons
 

@@ -2,6 +2,7 @@
 layout: archive
 title: About
 permalink: /about/
+author: Meron Woldesenbet
 author_profile: true
 ---
 
