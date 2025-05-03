@@ -2,6 +2,7 @@
 layout: archive
 title: Involvement and Activities
 permalink: /involvement/
+author_profile: true
 ---
 
 Beyond academics, I’ve had the opportunity to be involved in incredible programs, communities, and projects that have shaped my journey both personally and professionally.
